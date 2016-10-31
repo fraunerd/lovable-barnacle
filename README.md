@@ -9,4 +9,18 @@ The file **fraunerd-pokedex.json** contains the following Pokémon GO Pokédex d
 - The kilometres needed to hatch its egg. (E.g.: Does this come from a 2/5/10 kilometre egg?)
 - The kilometres needed to get a candy if you use this Pokémon as your buddy.
 
-
+###Example entries:
+> [{
+   "nummer": "001",
+   "de": "Bisasam",
+   "en": "Bulbasaur",
+   "ei": "2",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "002",
+   "de": "Bisaknosp",
+   "en": "Ivysaur",
+   "ei": "-",
+   "bonbon": "3"
+ }]
