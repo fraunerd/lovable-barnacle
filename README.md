@@ -1,9 +1,12 @@
-# lovable-barnacle
+# Frau Nerd's pokedex.json
+A (German) Pokédex for Pokémon GO.
 
-Well, this is supposed to be the home of a small Pokémon project: A Pokémon GO Pokédex. A pokedex.json, to be exact.
-The Pokédex currently includes:
-- Number
-- German Name
-- English Name
-- Kilometres per Egg (a.k.a.: Which egg is this Pokémon found in?)
-- Kilometres per Candy (for the Buddy System)
+##What's in the JSON file?
+The file **fraunerd-pokedex.json** contains the following Pokémon GO Pokédex data:
+- The Pokédex number.
+- The Pokémon's German name.
+- The Pokémon's English name.
+- The kilometres needed to hatch its egg. (E.g.: Does this come from a 2/5/10 kilometre egg?)
+- The kilometres needed to get a candy if you use this Pokémon as your buddy.
+
+
