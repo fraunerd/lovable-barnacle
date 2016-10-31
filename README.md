@@ -1,8 +1,8 @@
-# fraunerd-pokedex.json
+# Frau Nerd's pokedex.json
 A (German/English) Pokédex for Pokémon GO.
 
 ##What's in the JSON file?
-The file [fraunerd-pokedex.json](fraunerd-pokedex.json) contains the following Pokémon GO Pokédex data:
+The file [pokedex.json](pokedex.json) contains the following Pokémon GO Pokédex data:
 - The Pokédex number.
 - The Pokémon's German name.
 - The Pokémon's English name.
