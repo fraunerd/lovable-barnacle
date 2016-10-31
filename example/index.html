@@ -1,1 +1,73 @@
+@@ -1 +1,72 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+
+    <meta charset="UTF-8">
+    <title>Usage Example for fraunerd-pokedex.json</title>
+
+
+    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+    <style>
+        #pkmn {
+            margin-top: 15px;
+        }
+
+        th {
+            font-size: 16px;
+            background-color: #b0e0b0;
+            padding: 5px;
+        }
+
+        td {
+            padding: 5px;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #e0f0e0;
+        }
+
+        td:nth-child(1) {
+            font-weight: bold;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center">Usage Example for fraunerd-pokedex.json</h1>
+        <div class="row">
+            <div class="col-xs- col-xs-offset-2">
+                <p id="pkmn">Pkmn go here :-)</p>
+            </div>
+        </div>
+
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+        <script>
+            var data = [];
+            $(document).ready(function() {
+                $.getJSON('fraunerd-pokedex.json', function(pokedata) {
+
+                    for (i = 0; i < pokedata.length; i++) {
+                        data.push([JSON.stringify(pokedata[i].nummer).replace(/"/g, ""), JSON.stringify(pokedata[i].de).replace(/"/g, ""),
+                            JSON.stringify(pokedata[i].en).replace(/"/g, ""), JSON.stringify(pokedata[i].ei).replace(/"/g, ""), JSON.stringify(pokedata[i].bonbon).replace(/"/g, "")
+                        ])
+                    };
+                    var table = "<table><tr><th>#</th><th>Deutsch</th><th>Englisch</th><th>km/Ei</th><th>km/Bonbon</th></tr>";
+                    for (i = 0; i < data.length; i++) {
+                        table += "<tr><td>" + data[i][0] + "</td>" + "<td>" + data[i][1] + "</td>" + "<td>" + data[i][2] + "</td>" + "<td>" + data[i][3] + "</td>" + "<td>" + data[i][4] + "</td>" + "</tr>";
+                    };
+                    table += "</table>";
+                    $('#pkmn').html(table);
+                });
+            });
+        </script>
+
+
+
+</body>
+
+</html>
