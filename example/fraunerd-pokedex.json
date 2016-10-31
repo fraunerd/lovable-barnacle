@@ -1,0 +1,1059 @@
+[
+ {
+   "nummer": "001",
+   "de": "Bisasam",
+   "en": "Bulbasaur",
+   "ei": "2",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "002",
+   "de": "Bisaknosp",
+   "en": "Ivysaur",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "003",
+   "de": "Bisaflor",
+   "en": "Venusaur",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "004",
+   "de": "Glumanda",
+   "en": "Charmander",
+   "ei": "2",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "005",
+   "de": "Glutexo",
+   "en": "Charmeleon",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "006",
+   "de": "Glurak",
+   "en": "Charizard",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "007",
+   "de": "Schiggy",
+   "en": "Squirtle",
+   "ei": "2",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "008",
+   "de": "Schillok",
+   "en": "Wartortle",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "009",
+   "de": "Turtok",
+   "en": "Blastoise",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "010",
+   "de": "Raupy",
+   "en": "Caterpie",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "011",
+   "de": "Safcon",
+   "en": "Metapod",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "012",
+   "de": "Smettbo",
+   "en": "Butterfree",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "013",
+   "de": "Hornliu",
+   "en": "Weedle",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "014",
+   "de": "Kokuna",
+   "en": "Kakuna",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "015",
+   "de": "Bibor",
+   "en": "Beedrill",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "016",
+   "de": "Taubsi",
+   "en": "Pidgey",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "017",
+   "de": "Tauboga",
+   "en": "Pidgeotto",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "018",
+   "de": "Tauboss",
+   "en": "Pidgeot",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "019",
+   "de": "Rattfratz",
+   "en": "Rattata",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "020",
+   "de": "Rattikarl",
+   "en": "Raticate",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "021",
+   "de": "Habitak",
+   "en": "Spearow",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "022",
+   "de": "Ibitak",
+   "en": "Fearow",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "023",
+   "de": "Rettan",
+   "en": "Ekans",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "024",
+   "de": "Arbok",
+   "en": "Arbok",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "025",
+   "de": "Pikachu",
+   "en": "Pikachu",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "026",
+   "de": "Raichu",
+   "en": "Raichu",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "027",
+   "de": "Sandan",
+   "en": "Sandshrew",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "028",
+   "de": "Sandamer",
+   "en": "Sandslash",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "029",
+   "de": "Nidoran♀",
+   "en": "Nidoran♀",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "030",
+   "de": "Nidorina",
+   "en": "Nidorina",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "031",
+   "de": "Nidoqueen",
+   "en": "Nidoqueen",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "032",
+   "de": "Nidoran♂",
+   "en": "Nidoran♂",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "033",
+   "de": "Nidorino",
+   "en": "Nidorino",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "034",
+   "de": "Nidoking",
+   "en": "Nidoking",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "035",
+   "de": "Piepi",
+   "en": "Clefairy",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "036",
+   "de": "Pixi",
+   "en": "Clefable",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "037",
+   "de": "Vulpix",
+   "en": "Vulpix",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "038",
+   "de": "Vulnona",
+   "en": "Ninetales",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "039",
+   "de": "Pummeluff",
+   "en": "Jigglypuff",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "040",
+   "de": "Knuddeluff",
+   "en": "Wigglytuff",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "041",
+   "de": "Zubat",
+   "en": "Zubat",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "042",
+   "de": "Golbat",
+   "en": "Golbat",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "043",
+   "de": "Myrapla",
+   "en": "Oddish",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "044",
+   "de": "Duflor",
+   "en": "Gloom",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "045",
+   "de": "Giflor",
+   "en": "Vileplume",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "046",
+   "de": "Paras",
+   "en": "Paras",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "047",
+   "de": "Parasek",
+   "en": "Parasect",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "048",
+   "de": "Bluzuk",
+   "en": "Venonat",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "049",
+   "de": "Omot",
+   "en": "Venomoth",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "050",
+   "de": "Digda",
+   "en": "Diglett",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "051",
+   "de": "Digdri",
+   "en": "Dugtrio",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "052",
+   "de": "Mauzi",
+   "en": "Meowth",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "053",
+   "de": "Snobilikat",
+   "en": "Persian",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "054",
+   "de": "Enton",
+   "en": "Psyduck",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "055",
+   "de": "Entoron",
+   "en": "Golduck",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "056",
+   "de": "Menki",
+   "en": "Mankey",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "057",
+   "de": "Rasaff",
+   "en": "Primeape",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "058",
+   "de": "Fukano",
+   "en": "Growlithe",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "059",
+   "de": "Arkani",
+   "en": "Arcanine",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "060",
+   "de": "Quapsel",
+   "en": "Poliwag",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "061",
+   "de": "Quaputzi",
+   "en": "Poliwhirl",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "062",
+   "de": "Quappo",
+   "en": "Poliwrath",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "063",
+   "de": "Abra",
+   "en": "Abra",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "064",
+   "de": "Kadabra",
+   "en": "Kadabra",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "065",
+   "de": "Simsala",
+   "en": "Alakazam",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "066",
+   "de": "Machollo",
+   "en": "Machop",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "067",
+   "de": "Maschock",
+   "en": "Machoke",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "068",
+   "de": "Machomei",
+   "en": "Machamp",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "069",
+   "de": "Knofensa",
+   "en": "Bellsprout",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "070",
+   "de": "Ultrigaria",
+   "en": "Weepinbell",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "071",
+   "de": "Sarzenia",
+   "en": "Victreebel",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "072",
+   "de": "Tentacha",
+   "en": "Tentacool",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "073",
+   "de": "Tentoxa",
+   "en": "Tentacruel",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "074",
+   "de": "Kleinstein",
+   "en": "Geodude",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "075",
+   "de": "Georok",
+   "en": "Graveler",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "076",
+   "de": "Geowaz",
+   "en": "Golem",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "077",
+   "de": "Ponita",
+   "en": "Ponyta",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "078",
+   "de": "Gallopa",
+   "en": "Rapidash",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "079",
+   "de": "Flegmon",
+   "en": "Slowpoke",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "080",
+   "de": "Lahmus",
+   "en": "Slowbro",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "081",
+   "de": "Magnetilo",
+   "en": "Magnemite",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "082",
+   "de": "Magneton",
+   "en": "Magneton",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "083",
+   "de": "Porenta",
+   "en": "Farfetch'd",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "084",
+   "de": "Dodu",
+   "en": "Doduo",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "085",
+   "de": "Dodri",
+   "en": "Dodrio",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "086",
+   "de": "Jurob",
+   "en": "Seel",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "087",
+   "de": "Jugong",
+   "en": "Dewgong",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "088",
+   "de": "Sleima",
+   "en": "Grimer",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "089",
+   "de": "Sleimok",
+   "en": "Muk",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "090",
+   "de": "Muschas",
+   "en": "Shellder",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "091",
+   "de": "Austos",
+   "en": "Cloyster",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "092",
+   "de": "Nebulak",
+   "en": "Gastly",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "093",
+   "de": "Alpollo",
+   "en": "Haunter",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "094",
+   "de": "Gengar",
+   "en": "Gengar",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "095",
+   "de": "Onix",
+   "en": "Onix",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "096",
+   "de": "Traumato",
+   "en": "Drowzee",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "097",
+   "de": "Hypno",
+   "en": "Hypno",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "098",
+   "de": "Krabby",
+   "en": "Krabby",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "099",
+   "de": "Kingler",
+   "en": "Kingler",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "100",
+   "de": "Voltobal",
+   "en": "Voltorb",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "101",
+   "de": "Lektrobal",
+   "en": "Electrode",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "102",
+   "de": "Owei",
+   "en": "Exeggcute",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "103",
+   "de": "Kokowei",
+   "en": "Exeggutor",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "104",
+   "de": "Tragosso",
+   "en": "Cubone",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "105",
+   "de": "Knogga",
+   "en": "Marowak",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "106",
+   "de": "Kicklee",
+   "en": "Hitmonlee",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "107",
+   "de": "Nockchan",
+   "en": "Hitmonchan",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "108",
+   "de": "Schlurp",
+   "en": "Lickitung",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "109",
+   "de": "Smogon",
+   "en": "Koffing",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "110",
+   "de": "Smogmog",
+   "en": "Weezing",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "111",
+   "de": "Rihorn",
+   "en": "Rhyhorn",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "112",
+   "de": "Rizeros",
+   "en": "Rhydon",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "113",
+   "de": "Chaneira",
+   "en": "Chansey",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "114",
+   "de": "Tangela",
+   "en": "Tangela",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "115",
+   "de": "Kangama",
+   "en": "Kangaskhan",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "116",
+   "de": "Seeper",
+   "en": "Horsea",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "117",
+   "de": "Seemon",
+   "en": "Seadra",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "118",
+   "de": "Goldini",
+   "en": "Goldeen",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "119",
+   "de": "Golking",
+   "en": "Seaking",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "120",
+   "de": "Sterndu",
+   "en": "Staryu",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "121",
+   "de": "Starmie",
+   "en": "Starmie",
+   "ei": "-",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "122",
+   "de": "Pantimos",
+   "en": "Mr. Mime",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "123",
+   "de": "Sichlor",
+   "en": "Scyther",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "124",
+   "de": "Rossana",
+   "en": "Jynx",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "125",
+   "de": "Elektek",
+   "en": "Electabuzz",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "126",
+   "de": "Magmar",
+   "en": "Magmar",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "127",
+   "de": "Pinsir",
+   "en": "Pinsir",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "128",
+   "de": "Tauros",
+   "en": "Tauros",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "129",
+   "de": "Karpador",
+   "en": "Magikarp",
+   "ei": "2",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "130",
+   "de": "Garados",
+   "en": "Gyrados",
+   "ei": "-",
+   "bonbon": "1"
+ },
+ {
+   "nummer": "131",
+   "de": "Lapras",
+   "en": "Lapras",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "132",
+   "de": "Ditto",
+   "en": "Ditto",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "133",
+   "de": "Evoli",
+   "en": "Eevee",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "134",
+   "de": "Aquana",
+   "en": "Vaporeon",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "135",
+   "de": "Blitza",
+   "en": "Jolteon",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "136",
+   "de": "Flamara",
+   "en": "Flareon",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "137",
+   "de": "Porygon",
+   "en": "Porygon",
+   "ei": "5",
+   "bonbon": "3"
+ },
+ {
+   "nummer": "138",
+   "de": "Amonitas",
+   "en": "Omanyte",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "139",
+   "de": "Amoroso",
+   "en": "Omastar",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "140",
+   "de": "Kabuto",
+   "en": "Kabuto",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "141",
+   "de": "Kabutops",
+   "en": "Kabutops",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "142",
+   "de": "Aerodactyl",
+   "en": "Aerodactyl",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "143",
+   "de": "Relaxo",
+   "en": "Snorlax",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "144",
+   "de": "Arktos",
+   "en": "Articuno",
+   "ei": "-",
+   "bonbon": "-"
+ },
+ {
+   "nummer": "145",
+   "de": "Zapdos",
+   "en": "Zapdos",
+   "ei": "-",
+   "bonbon": "-"
+ },
+ {
+   "nummer": "146",
+   "de": "Lavados",
+   "en": "Moltres",
+   "ei": "-",
+   "bonbon": "-"
+ },
+ {
+   "nummer": "147",
+   "de": "Dratini",
+   "en": "Dratini",
+   "ei": "10",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "148",
+   "de": "Dragonir",
+   "en": "Dragonair",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "149",
+   "de": "Dragoran",
+   "en": "Dragonite",
+   "ei": "-",
+   "bonbon": "5"
+ },
+ {
+   "nummer": "150",
+   "de": "Mewtu",
+   "en": "Mewtwo",
+   "ei": "-",
+   "bonbon": "-"
+ },
+ {
+   "nummer": "151",
+   "de": "Mew",
+   "en": "Mew",
+   "ei": "-",
+   "bonbon": "-"
+ }
+]
