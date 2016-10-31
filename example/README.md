@@ -8,10 +8,7 @@ A Pokémon's data can be directly accessed by using the **index number**. Keep i
 E.g.: Bisasam/Bulbasaur, while *Number 1* in the Pokédex, is **pokedata[0]** in the example.
 
 ##How to access a value (e.g. English name)
-To access a value, you can use the corresponding key:
->JSON.stringify(pokedata[i].en)
-
-This will give you the English name of a Pokémon.
+To access a value, you can use the corresponding key, e.g.: **pokedata[i].en**. This will give you the English name of a Pokémon.
 
 ###The keys
 These are the keys I included:
